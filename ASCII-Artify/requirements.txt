@@ -1,0 +1,5 @@
+pillow==11.3.0
+rich==14.1.0
+opencv-python>=4.5.1
+Pillow>=8.0.0
+numpy>=1.19.0
